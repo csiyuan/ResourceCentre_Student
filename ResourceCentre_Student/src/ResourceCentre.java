@@ -162,7 +162,7 @@ public class ResourceCentre {
 		return output;
 	}
 
-	// DONE BY: Brandon
+	
 	public static void viewAllChromebook(ArrayList<Chromebook> chromebookList) {
 
 		ResourceCentre.setHeader("CHROMEBOOK LIST");
@@ -192,7 +192,7 @@ public class ResourceCentre {
 		System.out.println("Camcorder added");
 	}
 
-	// DONE BY: Brandon
+	// DONE BY: Brandon 18044455
 	public static Chromebook inputChromebook() {
 		Chromebook cb = null;
 		// write your code here
