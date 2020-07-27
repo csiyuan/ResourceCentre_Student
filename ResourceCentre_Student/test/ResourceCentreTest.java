@@ -127,7 +127,7 @@ public class ResourceCentreTest {
 	}
 	
 	@Test
-	public void doReturnCamcorderTest() { //Done By Si Yuan
+	public void doReturnCamcorderTest() { //Done By Si Yuan 19016011
         // fail("Not yet implemented");
         // write your code here
         
