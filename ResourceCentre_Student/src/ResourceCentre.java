@@ -192,7 +192,7 @@ public class ResourceCentre {
 		System.out.println("Camcorder added");
 	}
 
-	// DONE BY: Elson
+	// DONE BY: Brandon
 	public static Chromebook inputChromebook() {
 		Chromebook cb = null;
 		// write your code here
@@ -211,7 +211,7 @@ public class ResourceCentre {
 		System.out.println("Chromebook added");
 	}
 
-	// DONE BY: Si Yuan
+	// DONE BY: Yee Hung
 	// ================================= Option 3 Loan
 	// =================================
 	public static boolean doLoanCamcorder(ArrayList<Camcorder> camcorderList, String tag, String dueDate) {
@@ -273,6 +273,7 @@ public class ResourceCentre {
 
 	// ================================= Option 4 Return
 	// =================================
+	//DONE BY: Si Yuan
 	public static boolean doReturnCamcorder(ArrayList<Camcorder> camcorderList, String tag) {
 		boolean isReturned = false;
 
@@ -301,7 +302,7 @@ public class ResourceCentre {
 		}
 	}
 
-	// DONE BY: Brandon
+	// DONE BY: Abdullah
 	public static boolean doReturnChromebook(ArrayList<Chromebook> chromebookList, String tag) {
 		boolean isReturned = false;
 		// write your code here
