@@ -99,7 +99,7 @@ public class ResourceCentreTest {
 
 	@Test
 	
-    public void doLoanCamcorderTest() {//Done By Yee Hung
+    public void doLoanCamcorderTest() {//Done By Yee Hung 19034609
   //fail("Not yet implemented");
   // write your code here
  

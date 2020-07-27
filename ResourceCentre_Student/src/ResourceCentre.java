@@ -257,7 +257,7 @@ public class ResourceCentre {
 		return Loaned;
 	}
 
-	// DONE BY: Yee Hung
+	// DONE BY: Yee Hung 19034609
 	public static void loanChromebook(ArrayList<Chromebook> chromebookList) {
 		// write your code here
 		ResourceCentre.viewAllChromebook(chromebookList);
