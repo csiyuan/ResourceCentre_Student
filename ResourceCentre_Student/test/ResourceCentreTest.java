@@ -50,7 +50,7 @@ public class ResourceCentreTest {
 	}
 	
 	@Test
-	public void addChromebookTest() { //Done By Brandon
+	public void addChromebookTest() { //Done By Brandon 18044455
 		//fail("Not yet implemented");
 		// Item list is not null, so that can add a new item
 				assertNotNull("Test if there is valid Chromebook arraylist to add to", chromebookList);
@@ -99,7 +99,7 @@ public class ResourceCentreTest {
 
 	@Test
 	
-    public void doLoanCamcorderTest() {//Done By Yee Hung
+    public void doLoanCamcorderTest() {//Done By Yee Hung 19034609
   //fail("Not yet implemented");
   // write your code here
  
